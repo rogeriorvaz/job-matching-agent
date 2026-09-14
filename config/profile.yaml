@@ -1,0 +1,68 @@
+candidate:
+  target_roles:
+    - Technical Delivery Manager
+    - Technical Delivery Lead
+    - Technical Programme Manager
+    - Delivery Manager
+    - Agile Delivery Lead
+    - Agile Coach
+    - Scrum Master
+    - Programme Manager
+    - Technical Project Manager
+    - Solutions Architect
+
+  seniority:
+    - Senior
+    - Lead
+    - Head of
+
+  core_capabilities:
+    - Agile delivery
+    - Scrum
+    - SAFe
+    - Agile transformation
+    - Delivery governance
+    - Technical delivery
+    - Programme delivery
+    - Project management
+    - Technical leadership
+    - Solutions architecture
+    - Software architecture
+    - SaaS architecture
+    - API architecture
+    - Cloud architecture
+    - Data architecture
+    - Security architecture
+    - DevOps
+    - Supplier management
+    - Stakeholder management
+    - DORA metrics
+    - Flow metrics
+    - OKRs
+
+  tools:
+    - Jira
+    - Confluence
+    - Miro
+    - Power BI
+    - Microsoft Fabric
+    - Azure SQL
+    - Grafana
+    - Prometheus
+    - Zabbix
+
+  leadership:
+    team_size: "30+"
+    technology_budget: "£1m+"
+
+  achievements:
+    delivery_success: "50% to 90%"
+    cost_reduction: "£150k+"
+    deployment_frequency: "50% improvement"
+    lead_time: "40% reduction"
+    change_failure_rate: "25% reduction"
+    productivity_predictability: "20-30% improvement"
+
+  evidence:
+    - "Replace with evidence from the master CV."
+    - "Do not claim unsupported experience."

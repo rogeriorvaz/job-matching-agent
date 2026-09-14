@@ -1,0 +1,13 @@
+beautifulsoup4
+httpx
+lxml
+pandas
+pydantic
+pymupdf
+python-dotenv
+pyyaml
+rapidfuzz
+streamlit
+tenacity
+playwright
+pytest

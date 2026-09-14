@@ -1,0 +1,20 @@
+location: London
+
+searches:
+  - Technical Delivery Manager
+  - Technical Delivery Lead
+  - Technical Programme Manager
+  - Delivery Manager
+  - Agile Delivery Lead
+  - Agile Coach
+  - Scrum Master
+  - Programme Manager
+  - Technical Project Manager
+  - Solutions Architect
+
+sources:
+  - google
+  - linkedin
+  - indeed
+  - reed
+  - company_sites
